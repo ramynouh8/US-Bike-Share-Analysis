@@ -8,6 +8,7 @@ In this project, you will use data provided by Motivate, a bike share system pro
 
 The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
+
 Start Time (e.g., 2017-01-01 00:07:57)
 End Time (e.g., 2017-01-01 00:20:53)
 Trip Duration (in seconds - e.g., 776)
@@ -16,8 +17,7 @@ End Station (e.g., Sedgwick St & North Ave)
 User Type (Subscriber or Customer)
 
 The Chicago and New York City files also have the following two columns:
-Gender	
-Birth Year
+(Gender	- Birth Year)
 
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward. In the Data Wrangling course that comes later in the Data Analyst Nanodegree program, students learn how to wrangle the dirtiest, messiest datasets, so don't worry, you won't miss out on learning this important skill!
 
